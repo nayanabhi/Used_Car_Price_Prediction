@@ -8,6 +8,6 @@
 
 ## Contents 
 
-(i) [Code](Used_Car_Price_Pred_Updated.ipynb.ipynb)
+(i) [Code](Used_Car_Price_Pred_Updated.ipynb)
 
 (ii) [Project Report](projectReport.pdf)
